@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 1- Clone the repository
 
 ```
-    git clone https://github.com/elberthcorniell/restaurant-js.git
+    git clone https://github.com/prernapriyali/restaurant-js.git
 ```
 
 2- Open the folder on VS Code.
@@ -43,12 +43,6 @@ To get a local copy up and running follow these simple example steps.
 ```
 
 ## Author
-
-😎 **Abdo Amin**
-
-- GitHub: [@Abdelrhman-Amin](https://github.com/AbdelrhmanAmin)
-- Twitter: [@Abdo Amin](https://twitter.com/AbdoAmi60489112)
-- LinkedIn: [@Abdo Amin](https://www.linkedin.com/in/abdo-amin-ab786a1b0/)
 
 ## Show your support
 
