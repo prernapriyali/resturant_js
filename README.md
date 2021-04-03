@@ -5,7 +5,7 @@
 ![screenshot](./screen.png)
 
 ## Live Demo
-[Live Demo link](https://prernapriyali.github.io/Resturant-js/#)
+[Live Demo link](http://127.0.0.1:5501/dist/index.html)
 
 ## Getting Started
 
