@@ -41,9 +41,11 @@ To get a local copy up and running follow these simple example steps.
 ```
 
 ## Author
-👤 **prernapriyali**
+👤 **Prerna Priyali**
 
-- GitHub: [prernapriyali](https://github.com/prernapriyali)
+- Github: [@prernapriyali](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
+
 
 ## Show your support
 
