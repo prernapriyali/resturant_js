@@ -1,1 +1,56 @@
-# resturant_js
+# Resturant-js
+
+> A restaurant site that uses tabbed browsing to access different tabs
+
+![screenshot](./screen.png)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Live Server plugin for Visual Studio Code
+
+### Setup
+
+1- Clone the repository
+
+```
+    git clone https://github.com/prernapriyali/restaurant-js.git
+```
+
+2- Open the folder on VS Code.
+
+```
+    cd restaurant-js
+    code .
+```
+
+3- Right click the dist/index.html file and click on "Open With Live Server"
+
+4- Everything should be running by now.
+
+### JavaScript Build
+
+1- Run the next on your terminal in the repository folder
+
+```
+    npm run webpack
+```
+
+## Author
+👤 **Prerna Priyali**
+
+- Github: [@prernapriyali](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/).
